@@ -161,7 +161,7 @@
 .md-stepper .md-steps-vertical-container .md-step:not(:last-of-type) .md-step-content {
     border-left: 1px solid #BDBDBD;
 }
-@media (min-width: 660px) {
+@media (min-width: 601px) {
   .md-stepper .md-steps-navigation .md-steps-navigation-container {
     margin-bottom: -15px;
   }
